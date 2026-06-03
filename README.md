@@ -7,4 +7,7 @@ git add <file>
 git add -A
 git commit -m '<msg>'
 git status
+
+git branch
+git checkout -b <branchName>
 ```
