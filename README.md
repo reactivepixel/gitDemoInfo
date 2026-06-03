@@ -1,6 +1,6 @@
 # Git Notes
 
-Common Commands
+## Common Commands
 
 ```bash
 git add <file>
